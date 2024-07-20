@@ -9,25 +9,28 @@ var API_SERVER_DOMAIN = 'http://3.36.15.193:3000/';
 function getIoTInfo() {
     return fetch(API_SERVER_DOMAIN + 'users/1/plugs', {
         method: 'GET',
-        credentials: 'include',
     }).then((res) => {
         if (!res.ok) {
             throw new Error('Failed to fetch');
         }
-        return response.json();
+        return res.json();
     });
 }
 
-function deletIoTInfo(id: string) {
-    return fetch(API_SERVER_DOMAIN + 'users/1/plugs/' + id, {
+function deleteIoTInfo(name: string) {
+    return fetch(API_SERVER_DOMAIN + 'users/1/plugs/' + name, {
         method: 'DELETE',
-        credentials: 'include',
-    }).then((res) => {
-        if (!res.ok) {
-            throw new Error('Failed to fetch');
-        }
-        return response.json();
-    });
+    })
+        .then((res) => {
+            console.log(res);
+            if (!res.ok) {
+                throw new Error('Failed to fetch');
+            }
+        })
+        .then(() => {
+            alert('삭제되었습니다.');
+            window.location.reload();
+        });
 }
 
 export default function AddIoT() {
@@ -62,7 +65,6 @@ export default function AddIoT() {
             body: JSON.stringify({
                 name: data.ID,
             }),
-            credentials: 'include',
         })
             .then((response) => {
                 if (!response.ok) {
@@ -204,7 +206,7 @@ export default function AddIoT() {
                         <img
                             src="..\img\trash.png"
                             style={{ width: '25px', cursor: 'pointer' }}
-                            onClick={() => handleDelete(iot.id)}
+                            onClick={() => handleDelete(iot.name)}
                         />
                     </div>
                 ))}

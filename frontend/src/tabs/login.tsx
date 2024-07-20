@@ -85,7 +85,7 @@ export default function Login() {
             </form>
 
             <Link to="/signup">
-                <span style={{ color: 'black', fontSize: '12px' }}>회원가입</span>
+                <span style={{ color: 'black', fontSize: '12px', textDecoration: '1px solid #000' }}>회원가입</span>
             </Link>
         </div>
     );
