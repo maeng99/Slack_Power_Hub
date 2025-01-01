@@ -9,16 +9,12 @@
 ## 1. Project Overview
 - **프로젝트 이름: SlackPower Hub**
 - 프로젝트 설명: 슬랙으로 누구나 간편하게 구축하는 스마트홈
-
-<br/>
 <br/>
 
 ## 2. Team Members
 | 김재현 | 김단이 | 김수현 | 맹의현 | 조찬희 |
 |:------:|:------:|:------:|:------:|:------:|
 | PL | PPT | BE | FE | BE |
-
-<br/>
 <br/>
 
 ## 3. Key Features
@@ -32,8 +28,6 @@
 
 - **사용 패턴 학습**:
   - 사용자 개인의 전력 사용 패턴을 분석하고 최적화
-
-<br/>
 <br/>
 
 ## 4. Technology Stack
@@ -44,7 +38,6 @@
 - **Database:** MySQL
 
 - **Cooperation:** Git, Notion
-
 <br/>
 
 ## 5. Project Structure
@@ -267,13 +260,10 @@ slackpowerhub/
         layer.zip
         README.md
 ```
-
-<br/>
 <br/>
 
 ## 6. Architecture
 <img src="https://github.com/user-attachments/assets/774c32c7-8dd5-4ba8-8685-5d6e49cdd1aa" width="750px"/>
-<br/>
 <br/>
 
 ## 7. 발표 PDF
