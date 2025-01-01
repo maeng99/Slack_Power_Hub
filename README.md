@@ -1,6 +1,5 @@
 # 🌏[우수상 수상] SlackPower Hub: Slack으로 누구나 간편하게 구축하는 스마트홈 (환경9조대팀)🌏
-- "AWS Cloud를 활용한 2024 「INHA SW NET-Zero 공동해커톤」" 우수상 수상<br />
-    (과학기술정보통신부 · 정보통신기획평가원 주관)
+- "AWS Cloud를 활용한 2024 「INHA SW NET-Zero 공동해커톤」" 우수상 수상 (과학기술정보통신부 · 정보통신기획평가원 주관)
     - "2024 INHA SW NET-Zero 공동 해커톤 대회 성료" (https://www.inha.ac.kr/bbs/kr/11/38182/artclView.do)
 <img src="https://github.com/user-attachments/assets/fa01dcc0-a26a-4cea-b874-4158d01c2ff9" width="300px"/>
 <br/>
