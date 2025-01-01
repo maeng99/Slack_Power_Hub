@@ -1,8 +1,5 @@
-# 0. Getting Started (시작하기)
-```bash
-$ npm start
-```
-[서비스 링크](https://club-project-one.vercel.app/)
+# 🌏[우수상 수상] SlackPower Hub: Slack으로 누구나 간편하게 구축하는 스마트홈🌏
+
 
 <br/>
 <br/>
