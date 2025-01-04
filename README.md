@@ -14,7 +14,7 @@
 ## 2. Team Members
 | 김재현 | 김단이 | 김수현 | 맹의현 | 조찬희 |
 |:------:|:------:|:------:|:------:|:------:|
-| PL | PPT | BE | FE | BE |
+| PM/BE | PPT | BE | FE | BE |
 <br/>
 
 ## 3. Key Features
