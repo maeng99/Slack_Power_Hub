@@ -269,4 +269,4 @@ slackpowerhub/
 ## 7. 발표 PDF
 - 프로젝트 자세히 알아보기
 
-[slck_power_hub_PDF](https://github.com/maeng99/slack-power-hub/blob/master/SlackPower%20Hub.pdf)
+[📄 slck_power_hub_PDF](https://github.com/maeng99/slack-power-hub/blob/master/SlackPower%20Hub.pdf)
