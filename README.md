@@ -7,18 +7,19 @@
 <br/>
 
 ## 1. Project Overview
-- **프로젝트 이름: SlackPower Hub**
+- 프로젝트 이름: **SlackPower Hub**
 - 프로젝트 설명: 슬랙으로 누구나 간편하게 구축하는 스마트홈
+- 프로젝트 기간: 2024.07.19 ~ 2024.07.20 (1박2일)
 <br/>
 
 ## 2. Team Members
-**Team: 환경9조대팀**
+Team: **환경9조대팀**
 | 김재현 | 김단이 | 김수현 | 맹의현 | 조찬희 |
 |:------:|:------:|:------:|:------:|:------:|
 | PM/BE | PPT | BE | FE | BE |
 <br/>
 
-## 3. Key Features
+## 3. Key Points
 - **일정시간 미사용 전기 자동 제어 기능**:
 
 - **API 통합**:
@@ -267,7 +268,5 @@ slackpowerhub/
 <img src="https://github.com/user-attachments/assets/774c32c7-8dd5-4ba8-8685-5d6e49cdd1aa" width="750px"/>
 <br/>
 
-## 7. 발표 PDF
-- 프로젝트 자세히 알아보기
-
-[📄 slck_power_hub_PDF](https://github.com/maeng99/slack-power-hub/blob/master/SlackPower%20Hub.pdf)
+## 7. Presentation PDF
+- 프로젝트 자세히 알아보기<br />[📄 slck_power_hub_PDF](https://github.com/maeng99/slack-power-hub/blob/master/SlackPower%20Hub.pdf)
